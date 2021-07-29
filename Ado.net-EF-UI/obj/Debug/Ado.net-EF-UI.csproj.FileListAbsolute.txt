@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\C#\Ado.net-EF-UI\Ado.net-EF-UI\bin\Debug\Ado.net-EF-UI.exe.config
+C:\Users\user\Desktop\C#\Ado.net-EF-UI\Ado.net-EF-UI\bin\Debug\Ado.net-EF-UI.exe
+C:\Users\user\Desktop\C#\Ado.net-EF-UI\Ado.net-EF-UI\bin\Debug\Ado.net-EF-UI.pdb
+C:\Users\user\Desktop\C#\Ado.net-EF-UI\Ado.net-EF-UI\obj\Debug\Ado.net-EF-UI.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Ado.net-EF-UI\Ado.net-EF-UI\obj\Debug\Ado.net-EF-UI.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#\Ado.net-EF-UI\Ado.net-EF-UI\obj\Debug\Ado.net-EF-UI.exe
+C:\Users\user\Desktop\C#\Ado.net-EF-UI\Ado.net-EF-UI\obj\Debug\Ado.net-EF-UI.pdb
